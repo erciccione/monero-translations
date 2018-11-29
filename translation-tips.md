@@ -55,7 +55,7 @@ The original version of this guide was written by Dutch translator Edwin den Boe
 
 Consistency is even more important than choosing the best translation. For example, a user who wants to know what the view key does, needs to find the same term that's used in Monero wallets on the Monero website.
 
-Before you search in dictionaries (see paragraph 7 below), don't forget to search in projects that have already been translated. For example, if you're adding translations to the GUI, look for the existing translations in the monero-core repository, or in other repositories like the monero.org website if they have been translated. Or [use a phrase book in QtLinguist](http://doc.qt.io/qt-4.8/linguist-translators.html#phrase-books).
+Before you search in dictionaries (see paragraph 7 below), don't forget to search in projects that have already been translated. For example, if you're adding translations to the GUI, look for the existing translations in the monero-core repository, or in other repositories like the getmonero.org website if they have been translated. Or [use a phrase book in QtLinguist](http://doc.qt.io/qt-4.8/linguist-translators.html#phrase-books).
 
 To help different translators to use the same terminology, lists of terms are shared [on Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/wiki/home). At the moment (May 2018), glossaries are available for Swedish, Italian, German, French and Spanish.
 
@@ -139,7 +139,7 @@ When your translation is longer than the English text, some of these peculiariti
 
 - Subclauses can be short in English and they're used more often than in other languages. But they can lead to complex layers of statements that are hard to parse. Simplify the translation by splitting sentences or by replacing a subclause with a preposition: *that contains* becomes *with*.
 
-- General categories are often mentioned explicitly where they would be implied in other languages: depending on the context, *the monero.org website* could be simply called *monero.org* in your translation. 
+- General categories are often mentioned explicitly where they would be implied in other languages: depending on the context, *the getmonero.org website* could be simply called *getmonero.org* in your translation. 
 
 - Double negatives are popular in English. Try to avoid confusions by turning them into positive statements: *Don't do this unless...* = *Only do this if...*
 
@@ -198,4 +198,4 @@ Translations are reviewed by ErCiccione and volunteers on Github before they are
 
 Don't worry about failed building checks on Github; it may happen that the code in the master branch won't compile correctly while it's being updated. This can be caused by reasons not related to your translation. If in doubt, ask ErCiccione.
 
-![Monero.org in Polish](media/translation-tips/website.png)
+![getmonero.org in Polish](media/translation-tips/website.png)
