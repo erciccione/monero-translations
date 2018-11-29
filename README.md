@@ -11,6 +11,7 @@ Repository of the Monero Localization Workgroup for general management, document
   - [Italian](https://github.com/monero-ecosystem/monero-translations/blob/master/italian-terminology.md)
   - [Spanish](https://github.com/monero-ecosystem/monero-translations/blob/master/spanish-terminology.md)
   - [Swedish](https://github.com/monero-ecosystem/monero-translations/blob/master/swedish-terminology.md)
+  - [Brazilian Portuguese](https://github.com/monero-ecosystem/monero-translations/blob/master/portuguese-br-terminology.md)
   
 ## Contacts
 
